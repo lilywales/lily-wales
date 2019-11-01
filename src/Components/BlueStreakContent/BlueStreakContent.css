@@ -1,0 +1,173 @@
+.wrapper {
+  width: 100vw;
+}
+
+.BSTextWrapper {
+  position: absolute;
+  right: 5.5%;
+  top: 40%;
+  height: 800px;
+  width: 350px;
+  text-align: right;
+  color: rgb(0, 33, 255);
+}
+
+.bs1 {
+  position: absolute;
+  padding: 5% 0 0 5%;
+  height: 100%;
+}
+
+.bs2 {
+  position: absolute;
+  top: 435%;
+  height: 75%;
+  left: 5%;
+}
+
+.bs3 {
+  position: absolute;
+  top: 530%;
+  height: 75%;
+  right: 5%;
+}
+
+.bs4 {
+  position: absolute;
+  top: 624%;
+  height: 75%;
+  left: 5%;
+}
+
+.bs5 {
+  position: absolute;
+  top: 717%;
+  height: 75%;
+  right: 5%;
+}
+
+.bs6 {
+  position: absolute;
+  top: 809%;
+  height: 75%;
+  left: 5%;
+  padding-bottom: 100px;
+}
+
+@media screen and (max-width: 900px) and (min-width: 601px) {
+  .bs1 {
+    right: 9%;
+    height: 60%;
+    padding: 78px 0 0 0;
+  }
+
+  ,
+  .BSTextWrapper {
+    top: 78%;
+  }
+
+  ,
+  .bs2 {
+    height: 36%;
+    top: 290%;
+  }
+  ,
+  .bs3 {
+    height: 36%;
+    top: 340%;
+  }
+  ,
+  .bs4 {
+    height: 36%;
+    top: 390%;
+  }
+  ,
+  .bs5 {
+    height: 36%;
+    top: 440%;
+  }
+  ,
+  .bs6 {
+    height: 36%;
+    top: 490%;
+    padding-bottom: 100px;
+  }
+}
+
+@media screen and (max-width: 600px) and (min-width: 321px) {
+  .bs1 {
+    height: 40%;
+    padding: 46px 0 0 0;
+    right: 9%;
+  }
+
+  ,
+  .BSTextWrapper {
+    top: 53%;
+  }
+  ,
+  .bs2 {
+    height: 30%;
+    top: 248%;
+  }
+  ,
+  .bs3 {
+    height: 30%;
+    top: 291%;
+  }
+  ,
+  .bs4 {
+    height: 30%;
+    top: 334%;
+  }
+  ,
+  .bs5 {
+    height: 30%;
+    top: 377%;
+  }
+  ,
+  .bs6 {
+    height: 30%;
+    top: 419%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .bs1 {
+    height: 40%;
+    padding: 46px 0 0 0;
+    right: 9%;
+  }
+
+  ,
+  .BSTextWrapper {
+    top: 55%;
+  }
+
+  ,
+  .bs2 {
+    height: auto;
+    height: 33%;
+    top: 254%;
+  }
+  ,
+  .bs3 {
+    height: 33%;
+    top: 299%;
+  }
+  ,
+  .bs4 {
+    height: 33%;
+    top: 343%;
+  }
+  ,
+  .bs5 {
+    height: 33%;
+    top: 388%;
+  }
+  ,
+  .bs6 {
+    height: 33%;
+    top: 433%;
+  }
+}

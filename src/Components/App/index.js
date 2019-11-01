@@ -5,6 +5,7 @@ import { Route, Switch } from "react-router-dom";
 import Home from "../../pages/Home";
 import About from "../../pages/About";
 import RadioactiveRhonda from "../../pages/Rhonda";
+import BlueStreak from "../../pages/BlueStreak";
 //creating routes for site
 const App = () => (
   <main>
@@ -12,6 +13,7 @@ const App = () => (
       <Route exact path="/" component={Home} />
       <Route path="/about" component={About} />
       <Route path="/radioactiverhonda" component={RadioactiveRhonda} />
+      <Route path="/bluestreak" component={BlueStreak} />
     </Switch>
   </main>
 );

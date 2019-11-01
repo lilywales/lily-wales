@@ -1,0 +1,53 @@
+.titlesTextBox {
+	position: absolute;
+	top: 210px;
+	right: 5.5%;
+	height: 400px;
+	width: 369px;
+	text-align: right;
+}
+
+h3 {
+	color: rgb(36, 234, 252);
+	font-weight: 400;
+}
+
+h3:hover {
+	color: rgb(255, 71, 153);
+}
+
+.homeMobImg {
+	position: relative;
+	height: 350px;
+	width: 100%;
+	top: 400px;
+	overflow: hidden;
+}
+
+.homeIpadImg {
+	position: relative;
+	top: 500px;
+	width: 100%;
+	height: 600px;
+	overflow: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+	.titlesTextBox {
+		top: 70px;
+		height: 300px;
+		width: 220px;
+	}
+}
+
+@media screen and (max-width: 899px) and (min-width: 601px) {
+	h3 {
+		font-size: 0.9rem;
+	}
+	,
+	.titlesTextBox {
+		height: 300px;
+		width: 210px;
+		top: 110px;
+	}
+}

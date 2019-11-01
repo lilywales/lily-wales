@@ -28,7 +28,7 @@ class RadioactiveRhonda extends Component {
             textAlign="right"
           />
         </MediaQuery>
-        <MediaQuery maxWidth={900} minWidth={600}>
+        <MediaQuery maxWidth={900} minWidth={601}>
           <ProjectTitle
             title="Radioactive Rhonda!"
             color="rgb(255,32,32)"
@@ -50,7 +50,7 @@ class RadioactiveRhonda extends Component {
             textAlign="left"
           />
         </MediaQuery>
-        <MediaQuery maxWidth={599}>
+        <MediaQuery maxWidth={600}>
           <ProjectTitle
             title="Radioactive Rhonda!"
             color="rgb(255,32,32)"
@@ -68,7 +68,7 @@ class RadioactiveRhonda extends Component {
             photoCredit="Photo credit: Murdock Ramone"
             color="rgb(255,32,32)"
             left="9.5%"
-            top="198%"
+            top="202%"
             textAlign="left"
           />
         </MediaQuery>

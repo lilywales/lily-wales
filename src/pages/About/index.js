@@ -3,7 +3,7 @@ import "./about.css";
 import LilyWales from "./../../Components/LilyWales";
 import HomeButton from "./../../Components/HomeButton";
 import ProjectTitle from "./../../Components/ProjectTitle";
-import ProjectDescription from "./../../Components/ProjectDescription";
+import PhotoCredit from "./../../Components/PhotoCredit";
 import BackToTop from "./../../Components/BackToTop";
 import aboutImage from "./aboutImg.png";
 import MediaQuery from "react-responsive";
@@ -14,6 +14,9 @@ class About extends Component {
       <div>
         <LilyWales color="rgb(248,39,127)" />
         <ProjectTitle title="About" color="rgb(0,204,255)" />
+        <div className="bio">
+        Lily Wales is a UK based artist working with handmade photomontage and sculpture. Previously her practice has explored the appropriation of nature within nuclear weaoponry, exploring the mushroom cloud as an icon and commenting on the bizarre naming of atomic bombs, in order to examine the ability language has to anaesthetise public perception. Currently her practice aims to reframe the narrative around nuclear weoponry in order to explore its impact   on both the natural and politcal climate.
+        </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
             <li>Indonesia, British Council, 2020</li>
@@ -39,7 +42,7 @@ class About extends Component {
         </div>
         <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
         <MediaQuery minWidth={900}>
-         <ProjectDescription description ="Lily Wales is a UK based artist working with handmade photomontage and sculpture. Previously her practice has explored the appropriation of nature within nuclear weaoponry, exploring the mushroom cloud as an icon and commenting on the bizarre naming of atomic bombs, in order to examine the ability language has to anaesthetise public perception. Currently her practice aims to reframe the narrative around nuclear weoponry in order to explore its impact   on both the natural and politcal climate" color="rgb(0,204,255)" width="332px" />
+
          <HomeButton
           color="rgb(248,39,127)"
           top="214%"

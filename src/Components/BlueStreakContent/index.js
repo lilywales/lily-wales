@@ -37,7 +37,7 @@ const styles = {
   gif1PhoneL: {
     position: "absolute",
     height: "58%",
-    top: "72%",
+    top: "74%",
     right: "5%"
   },
   gif1PhoneS: {
@@ -63,7 +63,7 @@ const styles = {
 
   gif2PhoneL: {
     position: "absolute",
-    height: "55%",
+    height: "57%",
     top: "104%",
     left: "5%"
   },
@@ -101,10 +101,10 @@ class BlueStreakContent extends Component {
             <br /> produced only 4
             <br /> miles away from the
             <br /> gallery at Century
-            <br /> Locks in WIllenhall.
+            <br /> Locks in Willenhall.
           </p>
         </div>
-        <img className="bs1" src={bs1} alt="Blue Streak" />
+        <img className="bs1" src={bs1} alt="An assemblage consisting of metalwork, photomontage and found objects. From left to right. A hollow steel rectangular frame lying horizontal with a small piece of a floppy blue paint like material and yellow photomontage with cement draped over. Above the steel from is a black and white landscape with a muscular form that appropriates a smoke cloud. In front of the frame, attached with a blue clamp is and two images overlayed, the background one being smaller. The image is a tall mechanical, parasaite and human like character as an abstract representation of the Blue Streak missile, it wears a dyper and appears to have had an a little accident in the form of a blue leak. The head of the character is breathing on the lock mechanism originally used for Blue Streak. Surrounding this character are two more parasite creatures. One with the body of a missle and worm like form. The other has a gask mask like face with two tentlcles. Pouring out of a blue watering can is a form that is half tumour, half locking mechanism. All are mounted onto a Blue wall " />
       <MediaQuery minWidth={900}>
         <div>
           <Keyframes

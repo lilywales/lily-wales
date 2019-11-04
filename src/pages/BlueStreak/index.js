@@ -35,6 +35,31 @@ class BlueStreak extends Component {
               paddingBottom="50px"
             />
           </MediaQuery>
+          <MediaQuery maxWidth={600} minWidth={321}>
+            <HomeButton
+              color="rgb(0, 33, 255)"
+              top=" 456%"
+              left="4.8%"
+              paddingBottom="50px"
+            />{" "}
+            <BackToTop color="rgb(0, 33, 255)" top=" 453%" left="4.8%" />
+          </MediaQuery>
+          <MediaQuery maxWidth={599}>
+            <ProjectTitle
+              title="Blue Streak"
+              color="rgb(0, 33, 255)"
+              top="37px"
+            />
+          </MediaQuery>
+          <MediaQuery maxWidth={320}>
+            <HomeButton
+              color="rgb(0, 33, 255)"
+              top=" 473%"
+              left="4.8%"
+              paddingBottom="50px"
+              />{" "}
+            <BackToTop color="rgb(0, 33, 255)" top=" 469%" left="4.8%" />
+          </MediaQuery>
         <LilyWales color="rgb(38, 235, 34)" />
       </div>
     );

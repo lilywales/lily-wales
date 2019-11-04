@@ -12,14 +12,14 @@ class BlueStreak extends Component {
       <div>
         <BlueStreakContent/>
           <MediaQuery minWidth={900}>
-            <ProjectTitle title="Blue Streak" color="rgb(0, 33, 255)" />
+            <ProjectTitle title="Blue Streak" color="rgb(0, 33, 255)"     top="133.5px" />
             <HomeButton
               color="rgb(0, 33, 255)"
-              top="893%"
-              left="4.8%"
+              top="803.5%"
+              right="5.5%"
               paddingBottom="50px"
             />
-            <BackToTop color="rgb(0, 33, 255)" top="888.5%" left="4.8%" />
+            <BackToTop color="rgb(0, 33, 255)" top="800%" right="5.5%" />
           </MediaQuery>
           <MediaQuery minWidth={600} maxWidth={899}>
             <ProjectTitle

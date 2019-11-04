@@ -13,6 +13,7 @@ class About extends Component {
       <div>
         <LilyWales color="rgb(248,39,127)" />
         <ProjectTitle title="About" color="rgb(0,204,255)" />
+        <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
         <div className="bio">
           Lily Wales is a UK<br/> based artist working<br/> with handmade photomontage and sculpture. Previously her<br/>  practice has explored the appropriation of nature within nuclear weaoponry, exploring the mushroom cloud as an icon and commenting on the bizarre naming of atomic bombs, in order to examine the ability language has to anaesthetise public perception. Currently her practice aims to reframe the narrative around nuclear weoponry in order to explore its impact   on both the natural and politcal climate.
         </div>
@@ -39,7 +40,6 @@ class About extends Component {
             <li>Narrative Structures, Stryx gallery, 2013</li>
             <li>Much Beta, MAC birmingham, 2013</li>
         </div>
-        <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
         <MediaQuery minWidth={900}>
          <HomeButton
             color="rgb(248,39,127)"

@@ -20,37 +20,37 @@
 
 .bs2 {
   position: absolute;
-  top: 435%;
+  top: 334%;
   height: 75%;
-  left: 5%;
+  right: 5.5%;
 }
 
 .bs3 {
   position: absolute;
-  top: 530%;
+  top: 432%;
   height: 75%;
-  right: 5%;
+  left: 5%;
 }
 
 .bs4 {
   position: absolute;
-  top: 624%;
+  top: 529%;
   height: 75%;
-  left: 5%;
+  right: 5.5%;
 }
 
 .bs5 {
   position: absolute;
-  top: 717%;
+  top: 627%;
   height: 75%;
-  right: 5%;
+  left: 5%;
 }
 
 .bs6 {
   position: absolute;
-  top: 809%;
+  top: 722%;
   height: 75%;
-  left: 5%;
+  right: 5.5%;
   padding-bottom: 100px;
 }
 
@@ -108,7 +108,7 @@
   ,
   .bs2 {
     height: 30%;
-    top: 248%;
+    top: 208%;
   }
   ,
   .bs3 {

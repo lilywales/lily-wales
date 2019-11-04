@@ -42,6 +42,13 @@
   }
   .bio {
     font-size: 0.8rem;
-    width: 175px;
+    width: 176px;
+  }
+
+  .cv li  {
+    font-size: 0.7rem;
+  }
+  .cv p  {
+    font-size: 0.7rem;
   }
 }

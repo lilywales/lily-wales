@@ -38,11 +38,11 @@ class BlueStreak extends Component {
           <MediaQuery maxWidth={600} minWidth={321}>
             <HomeButton
               color="rgb(0, 33, 255)"
-              top=" 456%"
+              top=" 406%"
               left="4.8%"
               paddingBottom="50px"
             />{" "}
-            <BackToTop color="rgb(0, 33, 255)" top=" 453%" left="4.8%" />
+            <BackToTop color="rgb(0, 33, 255)" top=" 403%" left="4.8%" />
           </MediaQuery>
           <MediaQuery maxWidth={599}>
             <ProjectTitle
@@ -54,11 +54,11 @@ class BlueStreak extends Component {
           <MediaQuery maxWidth={320}>
             <HomeButton
               color="rgb(0, 33, 255)"
-              top=" 473%"
+              top=" 423%"
               left="4.8%"
               paddingBottom="50px"
               />{" "}
-            <BackToTop color="rgb(0, 33, 255)" top=" 469%" left="4.8%" />
+            <BackToTop color="rgb(0, 33, 255)" top=" 429%" left="4.8%" />
           </MediaQuery>
         <LilyWales color="rgb(38, 235, 34)" />
       </div>

@@ -68,7 +68,7 @@ class RadioactiveRhonda extends Component {
             photoCredit="Photo credit: Murdock Ramone"
             color="rgb(255,32,32)"
             left="9.5%"
-            top="202%"
+            top="230%"
             textAlign="left"
           />
         </MediaQuery>

@@ -20,6 +20,7 @@ class About extends Component {
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
             <li>Indonesia, British Council, 2020</li>
+            <li>Fellow, Birmingham Open Media, 2019-2020</li>
             <li>New York, a-n, 2019</li>
             <li>The New Art Gallery Walsall residency, 2018</li>
             <li>Hiroshima & Nagasaki, DYCP Arts Council England, 2018</li>

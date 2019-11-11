@@ -6,6 +6,7 @@ import Home from "../../pages/Home";
 import About from "../../pages/About";
 import RadioactiveRhonda from "../../pages/Rhonda";
 import BlueStreak from "../../pages/BlueStreak";
+import WarMachine from "../../pages/WarMachine";
 //creating routes for site
 const App = () => (
   <main>
@@ -14,6 +15,7 @@ const App = () => (
       <Route path="/about" component={About} />
       <Route path="/radioactiverhonda" component={RadioactiveRhonda} />
       <Route path="/bluestreak" component={BlueStreak} />
+      <Route path="/warmachine" component={WarMachine} />
     </Switch>
   </main>
 );

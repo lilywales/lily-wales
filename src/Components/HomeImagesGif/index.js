@@ -25,7 +25,7 @@ class HomeImagesGif extends Component {
         <MediaQuery maxWidth={600} >
           <Keyframes
             component="pre"
-            delay={10}
+            delay={1}
             loop={true}
             style={styles.homeImagesPhoneGif}
           >

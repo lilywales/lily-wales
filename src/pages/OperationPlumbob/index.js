@@ -55,7 +55,7 @@ class OperationPlumbob extends Component {
         <ProjectTitle
           title="Operation Plumbob"
           color="rgb(255,85,1)"
-          top="25px"
+          top="26px"
           lineHeight="0.7"
         />
           <HomeButton

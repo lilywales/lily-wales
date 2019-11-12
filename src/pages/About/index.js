@@ -95,11 +95,11 @@ language has to
         <MediaQuery maxWidth={600}>
           <HomeButton
             color="rgb(248,39,127)"
-            top="203%"
+            top="213%"
             left="8%"
             paddingBottom="50px"
           />
-        <BackToTop top="200%" color="rgb(248,39,127)" left="8%" />
+        <BackToTop top="210%" color="rgb(248,39,127)" left="8%" />
        </MediaQuery>
       </div>
     );

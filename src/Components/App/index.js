@@ -7,6 +7,7 @@ import About from "../../pages/About";
 import RadioactiveRhonda from "../../pages/Rhonda";
 import BlueStreak from "../../pages/BlueStreak";
 import WarMachine from "../../pages/WarMachine";
+import BikiniBottom from "../../pages/BikiniBottom";
 //creating routes for site
 const App = () => (
   <main>
@@ -16,6 +17,7 @@ const App = () => (
       <Route path="/radioactiverhonda" component={RadioactiveRhonda} />
       <Route path="/bluestreak" component={BlueStreak} />
       <Route path="/warmachine" component={WarMachine} />
+      <Route path="/bikinibottom" component={BikiniBottom} />
     </Switch>
   </main>
 );

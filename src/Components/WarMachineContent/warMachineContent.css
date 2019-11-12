@@ -163,7 +163,8 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .wm1 {
+
+.wm1 {
   top: 45px;
   height: 61%;
   right: 9%;
@@ -246,16 +247,14 @@
 }
 
 .wm10 {
-
   top: 588%;
-
   height: 61%;
 }
 
 .wmWrapper {
   top: 72%;
   right: 9%;
-  width: 190px;
+  width: 200px;
 }
 
 }

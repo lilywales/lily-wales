@@ -37,16 +37,16 @@ class RadioactiveRhonda extends Component {
           />{" "}
           <HomeButton
             color="rgb(0,255,126)"
-            top="323%"
+            top="333%"
             right="5.5%"
             paddingBottom="15px"
           />
-          <BackToTop color="rgb(0,255,126)" top="319.5%" right="5.5%" />
+          <BackToTop color="rgb(0,255,126)" top="330.5%" right="5.5%" />
           <PhotoCredit
             photoCredit="Photo credit: Murdock Ramone"
             color="rgb(255,32,32)"
             left="9.5%"
-            top="240.5%"
+            top="230.5%"
             textAlign="left"
           />
         </MediaQuery>
@@ -68,7 +68,7 @@ class RadioactiveRhonda extends Component {
             photoCredit="Photo credit: Murdock Ramone"
             color="rgb(255,32,32)"
             left="9.5%"
-            top="230%"
+            top="233%"
             textAlign="left"
           />
         </MediaQuery>

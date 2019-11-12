@@ -19,7 +19,7 @@ class RadioactiveRhonda extends Component {
             width="92%"
           />{" "}
           <HomeButton color="rgb(0,255,126)" top="487%" right="5.5%" />
-          <BackToTop color="rgb(0,255,126)" top="482%" right="5.5%" />
+          <BackToTop color="rgb(0,255,126)" top="483.5%" right="5.5%" />
           <PhotoCredit
             photoCredit="Photo credit: Murdock Ramone"
             color="rgb(255,32,32)"

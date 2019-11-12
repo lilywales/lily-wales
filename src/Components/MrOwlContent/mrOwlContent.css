@@ -1,0 +1,9 @@
+.mrOwlText {
+  position: absolute;
+  right: 5.5%;
+  top: 45%;
+  height: 800px;
+  width: 300px;
+  text-align: right;
+  color: rgb(255, 0, 161);
+}

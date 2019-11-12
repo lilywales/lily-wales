@@ -14,6 +14,11 @@ const styles = {
     position: "absolute",
     top: '190px',
     width: '100%',
+  },
+  homeImagesIpadGif: {
+    position: "absolute",
+    top: '288px',
+    width: '100%',
   }
 };
 
@@ -49,6 +54,33 @@ class HomeImagesGif extends Component {
           </Frame>
         </Keyframes>
       </MediaQuery>
+      <MediaQuery minWidth={601} maxWidth={900} >
+        <Keyframes
+          component="pre"
+          delay={1}
+          loop={true}
+          style={styles.homeImagesIpadGif}
+        >
+        <Frame alt="Blue Streak" duration={3000}>
+          <img src={rhonda} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+        <Frame duration={3000}>
+          <img src={blue} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+        <Frame duration={3000}>
+          <img src={lasV} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+        <Frame duration={3000}>
+          <img src={babyJ} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+        <Frame duration={3000}>
+          <img src={warM} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+        <Frame duration={3000}>
+          <img src={nuc} alt="" style={styles.homeImagesPhoneGif} />
+        </Frame>
+      </Keyframes>
+    </MediaQuery>
     </div>
     );
   }

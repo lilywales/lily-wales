@@ -1,0 +1,89 @@
+.contactWrapper {
+	position: absolute;
+	height: 100vh;
+	left: 0%;
+	overflow: hidden;
+}
+
+.contactImg {
+	position: relative;
+	height: 100%;
+}
+.tagline {
+	position: absolute;
+	right: 5.5%;
+	top: 35%;
+	height: 350px;
+	width: 350px;
+	text-align: right;
+	color: rgb(0, 179, 255);
+}
+.email {
+	position: absolute;
+	display: flex;
+	color: rgb(0, 179, 255);
+}
+
+.twitter {
+	height: 22px;
+	padding-top: 24px;
+	padding-left: 15px;
+}
+
+.insta {
+	height: 22px;
+	padding-top: 24px;
+	padding-left: 15px;
+}
+
+.contacts {
+	position: absolute;
+	width: 360px;
+	height: 60px;
+	top: 75%;
+	right: 5.5%;
+}
+
+@media screen and (max-width: 900px) and (min-width: 601px) {
+  .contactImg {
+  right: 59%;
+}
+.twitter {
+  height: 15px;
+  padding-top: 20px;
+}
+
+
+.insta {
+  height: 15px;
+  padding-top: 20px;
+}
+
+.contacts {
+  width: 270px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+	.contactImg {
+		right: 81%;
+	}
+
+	.contacts {
+		right: 5.5%;
+		top: 55%;
+		width: 210px;
+	}
+
+	.insta {
+		height: 12px;
+		padding-top: 14px;
+		padding-left: 10px;
+	}
+
+	.twitter {
+		height: 12px;
+		padding-top: 14px;
+		padding-left: 10px;
+	}
+}

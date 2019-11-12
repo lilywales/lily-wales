@@ -11,6 +11,7 @@ import nuclearosisHomeImg from "./nuclearosisHome.jpg";
 import blueStreakHomeImg from "./blueStreakHome.jpg";
 import aboutHomeImg from "./aboutHome.png";
 import bikiniBottomHomeImg from "./bikiniBottomHome.png";
+import mrOwlHomeImg from "./mrOwlHome.png";
 
 const styles = {
   homeImg: {
@@ -76,6 +77,12 @@ class HomeImages extends Component {
         src: lasVaguenessHomeImg,
         className: "lasVaguenessTitle",
         path: "./lasVagueness"
+      },
+      {
+        label: "Mr Owl Ate My Metal Worm",
+        src: mrOwlHomeImg,
+        className: "MrOwlTitle",
+        path: "./mrowlatedownmymetalworm"
       },
       {
         label: "Operation Plumbob",

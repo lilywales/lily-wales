@@ -1,0 +1,140 @@
+.plum1 {
+  position: absolute;
+  width: 100%;
+  top: 42%;
+}
+
+.plum2and3 {
+  position: absolute;
+  height: 55%;
+  top: 152%;
+  left: 7%;
+
+}
+
+.plum2 {
+  position: relative;
+  padding-right: 30px;
+  padding-bottom: 37px;
+  height: 105%;
+}
+
+.plum3 {
+  position: relative;
+
+  height: 125%;
+}
+
+.plum4 {
+  position: absolute;
+  height: 80%;
+  top: 242%;
+  left: 3%;
+}
+
+.plum5 {
+  position: absolute;
+  height: 80%;
+  top: 342%;
+  right: 5%;
+}
+
+.plum6 {
+  position: absolute;
+  height: 80%;
+  top: 440%;
+  left: 3%;
+  padding-bottom: 3%;
+}
+
+
+@media screen and (max-width: 900px) and (min-width: 601px)  {
+  .plum1 {
+    top: 130px;
+  }
+
+  .plum2and3 {
+
+    height: 55%;
+    top: 65%;
+
+
+  }
+
+  .plum2 {
+    position: relative;
+    padding-right: 20px;
+    padding-bottom: 37px;
+    height: 45%;
+  }
+
+  .plum3 {
+    position: relative;
+
+    height: 55%;
+  }
+
+  .plum4 {
+    height: 35%;
+    top: 107%;
+    left: 3%;
+  }
+
+
+  .plum5 {
+    height: 40%;
+    top: 153%;
+    right: 9%;
+    height: 40%;
+  }
+
+  .plum6 {
+    height: 40%;
+    top: 205%;
+    left: 3%;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+  .plum1 {
+    top: 18%;
+  }
+  .plum2and3{
+    display: none;
+  }
+
+  .plum2mob {
+    position: absolute;
+    height: 50%;
+    left: 9%;
+  top: 60%;
+  }
+  .plum3mob {
+    position: absolute;
+    height: 26%;
+  right: 5.5%;
+  top: 120%;
+  }
+
+  .plum4 {
+  top: 156%;
+height: 26%;
+  left: 5.5%;
+}
+
+.plum5 {
+  top: 192%;
+
+  height: 28%;
+
+}
+
+.plum6 {
+
+  top: 236%;
+
+  height: 28%;
+  left: 9%;
+}
+}

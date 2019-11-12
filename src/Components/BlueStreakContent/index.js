@@ -31,7 +31,7 @@ const styles = {
   gif1Ipad: {
     position: "absolute",
     height: "60%",
-    top: "88%",
+    top: "77%",
     right: "5%"
   },
   gif1PhoneL: {
@@ -43,7 +43,7 @@ const styles = {
   gif1PhoneS: {
     position: "absolute",
     height: "54%",
-    top: "86%",
+    top: "80%",
     right: "5%"
   },
 
@@ -57,7 +57,7 @@ const styles = {
   gif2Ipad: {
     position: "absolute",
     height: "60%",
-    top: "118.5%",
+    top: "106%",
     left: "5%"
   },
 
@@ -70,7 +70,7 @@ const styles = {
   gif2PhoneS: {
     position: "absolute",
     height: "54%",
-    top: "112%",
+    top: "107%",
     left: "5%"
   },
 };

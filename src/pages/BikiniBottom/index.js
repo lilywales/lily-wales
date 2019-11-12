@@ -19,7 +19,7 @@ class BikiniBottom extends Component {
 						left="5.5%"
 						paddingBottom="50px"
 					/>
-          <BackToTop color="rgb(201,0,203)" top="880%" left="5.5%" />
+          <BackToTop color="rgb(201,0,203)" top="881%" left="5.5%" />
       	</MediaQuery>
 				<MediaQuery minWidth={601} maxWidth={899}>
 					<ProjectTitle

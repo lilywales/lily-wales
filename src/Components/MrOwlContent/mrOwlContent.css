@@ -5,5 +5,156 @@
   height: 800px;
   width: 300px;
   text-align: right;
-  color: rgb(255, 0, 161);
+  color: rgb(111, 69, 59);
+}
+
+.mrowl1 {
+  position: absolute;
+  padding: 5% 0 0 5%;
+  height: 115%;
+}
+
+.mrowl2 {
+  position: absolute;
+  right: 5%;
+  top: 145%;
+  height: 70%;
+}
+
+.mrowl3 {
+  position: absolute;
+  left: 5%;
+  top: 235%;
+  height: 70%;
+}
+
+.mrowl4and5 {
+  position: absolute;
+  height: 65%;
+  top: 325%;
+  right: 5%;
+}
+
+.mrowl4 {
+  position: relative;
+  height: 70%;
+  padding-right: 30px;
+  padding-bottom: 50px;
+}
+
+.mrowl5 {
+  position: relative;
+  height: 90%;
+}
+
+.mrowl6 {
+  position: absolute;
+  top: 403%;
+  height: 70%;
+  left: 9%;
+
+}
+
+@media screen and (max-width: 900px) and (min-width: 601px) {
+  .mrOwlText {
+    top: 100%;
+    width: 280px;
+  }
+  .mrowl1 {
+    padding: 78px 0 0 0;
+    right: 9%;
+    height: 85%;
+  }
+  .mrowl2 {
+
+
+    top: 135%;
+    height: 38%;
+  }
+  .mrowl3 {
+
+    top: 185%;
+    height: 40%;
+  }
+  .mrowl4and5 {
+
+    height: 50%;
+    top: 238%;
+
+  }
+  .mrowl4 {
+
+    height: 40%;
+    padding-right: 10px;
+    padding-bottom: 50px;
+  }
+
+  .mrowl5 {
+
+    height: 60%;
+  }
+
+  .mrowl6 {
+
+    top: 280%;
+    height: 40%;
+    left: 5%;
+
+
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .mrOwlText {
+    top: 68%;
+    width: 195px
+
+  }
+  .mrowl1 {
+    height: 55%;
+    top: 26px;
+    right: 9%;
+  }
+  .mrowl2 {
+
+
+    top: 110%;
+    height: 28%;
+  }
+
+  .mrowl3 {
+
+
+    top: 147%;
+    height: 28%;
+  }
+  .mrowl4and5 {
+
+    height: 40%;
+    top: 189%;
+
+  }
+  .mrowl4 {
+
+    height: 40%;
+    padding-right: 10px;
+    padding-bottom: 15px;
+  }
+
+  .mrowl5 {
+
+    height: 50%;
+  }
+
+  .mrowl6 {
+
+    top: 219%;
+    height: 28%;
+    left: 5%;
+
+
+
+  }
 }

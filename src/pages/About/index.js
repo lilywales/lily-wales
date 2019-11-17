@@ -15,39 +15,23 @@ class About extends Component {
         <ProjectTitle title="About" color="rgb(0,204,255)" />
         <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
         <div className="bio">
-        Lily Wales is a UK
-<br /> based artist working
-<br /> with handmade
-<br />
+      Lily Wales is a UK
+based artist working
+with handmade
 photomontage and
-<br /> sculpture. Currently her
-<br /> practice investigates
-<br /> the appropriation of
-<br /> nature within nuclear
-<br /> weaponry, exploring the
-<br />
+sculpture. Previously her
+practice has investigated
+the appropriation of
+nature within nuclear
+weaponry, exploring the
 mushroom cloud as an
-<br /> icon and commenting
-<br /> on the bizarre use of
-<br />
-language in historical
-<br /> civil defence. With
-<br /> specific attention
-<br />
-towards the naming of
-<br /> nuclear weaponry such
-<br /> as the M65 cannon
-<br /> more commonly known
-<br /> as Atomic Annie, as
-<br /> well as the atomic
-<br /> bombs Mr Plumbob,
-<br /> Smokey and Romeo to
-<br /> name a few, Lily
-<br /> examines the ability
-<br />
+icon and commenting
+on the bizarre naming of atomic bombs, in order to
+examine the ability
 language has to
-<br /> anaesthetise public
-<br /> perception.
+anaesthetise public
+perception. Her practice now aims to reframe the narrative around nuclear weaponry by exploring its impact on the natural and political climate.
+
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>

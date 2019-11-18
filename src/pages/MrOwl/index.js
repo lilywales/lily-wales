@@ -58,8 +58,8 @@ class MrOwl extends Component {
             textAlign="left"
             width="130px"
           />
-                      <BackToTop color="rgb(30, 246, 45)" top="274.5%" right="5.5%" />
-          <HomeButton color="rgb(30, 246, 45)" top="277%" right="5.5%" paddingBottom="50px" />
+                      <BackToTop color="rgb(30, 246, 45)" top="279.5%" right="5.5%" />
+          <HomeButton color="rgb(30, 246, 45)" top="282%" right="5.5%" paddingBottom="50px" />
 
             </MediaQuery>
             <LilyWales color="rgb(30, 246, 45)" />

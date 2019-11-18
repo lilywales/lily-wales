@@ -14,7 +14,7 @@ class MrOwl extends Component {
       <div>
         <div>
           <MrOwlContent/>
-                <LilyWales color="rgb(30, 246, 45)" />
+
             <MediaQuery minWidth={900}>
 
           <ProjectTitle title="Mr Owl Ate My Metal Worm" color="rgb(111, 69, 59)" top="113px"  width="600px"     lineHeight="0.74" />
@@ -49,7 +49,7 @@ class MrOwl extends Component {
           </MediaQuery>
 
           <MediaQuery maxWidth={600} >
-          <ProjectTitle title="Mr Owl Ate My Metal Worm" color="rgb(111, 69, 59)" top="26px"  width="150px"     lineHeight="0.74" />
+          <ProjectTitle title="Mr Owl Ate My Metal Worm" color="rgb(111, 69, 59)" top="26px"  width="150px"     lineHeight="0.71" />
           <PhotoCredit
             photoCredit="Photo credit: Alison Baskerville"
             color="rgb(111, 69, 59)"
@@ -62,6 +62,7 @@ class MrOwl extends Component {
           <HomeButton color="rgb(30, 246, 45)" top="257%" right="5.5%" paddingBottom="50px" />
 
             </MediaQuery>
+            <LilyWales color="rgb(30, 246, 45)" />
         </div>
       </div>
     );

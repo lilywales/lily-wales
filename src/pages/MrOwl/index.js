@@ -54,12 +54,12 @@ class MrOwl extends Component {
             photoCredit="Photo credit: Alison Baskerville"
             color="rgb(111, 69, 59)"
             left="5%"
-            top="178%"
+            top="198%"
             textAlign="left"
             width="130px"
           />
-                      <BackToTop color="rgb(30, 246, 45)" top="254.5%" right="5.5%" />
-          <HomeButton color="rgb(30, 246, 45)" top="257%" right="5.5%" paddingBottom="50px" />
+                      <BackToTop color="rgb(30, 246, 45)" top="274.5%" right="5.5%" />
+          <HomeButton color="rgb(30, 246, 45)" top="277%" right="5.5%" paddingBottom="50px" />
 
             </MediaQuery>
             <LilyWales color="rgb(30, 246, 45)" />

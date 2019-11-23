@@ -55,7 +55,7 @@
 
 }
 
-@media screen and (max-width: 900px) and (min-width: 601px) {
+@media screen and (max-width: 900px) and (min-width: 763px) {
   .mrOwlText {
     top: 100%;
     width: 280px;
@@ -105,7 +105,7 @@
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 665px) {
 
   .mrOwlText {
     top: 68%;

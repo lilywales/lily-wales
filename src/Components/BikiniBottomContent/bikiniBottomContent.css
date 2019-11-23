@@ -123,7 +123,7 @@
   display: none;
 }
 
-@media screen and (max-width: 900px) and (min-width: 601px) {
+@media screen and (max-width: 900px) and (min-width: 763px) {
 	.bb1 {
 		top: 78px;
 		padding-left: 0;

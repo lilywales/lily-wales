@@ -35,7 +35,7 @@ perception. Her practice now aims to reframe the narrative around nuclear weapon
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
-            <li>Connections through culture grant, British Council, Indonesia, upcoming 2020</li>
+            <li>Connections Through Culture grant, British Council, Indonesia, upcoming 2020</li>
             <li>Fellow, Birmingham Open Media, 2019-2020</li>
             <li>New York, a-n bursary, 2019</li>
             <li>The New Art Gallery Walsall residency, 2018</li>

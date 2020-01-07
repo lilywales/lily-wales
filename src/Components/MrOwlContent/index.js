@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import "./mrOwlContent.css";
-import mrowl1 from "./mrowl1.png";
-import mrowl2 from "./mrowl2.png";
-import mrowl3 from "./mrowl3.png";
-import mrowl4 from "./mrowl4.png";
-import mrowl5 from "./mrowl5.png";
-import mrowl6 from "./mrowl6.png";
+import mrowl1 from "./mrowl1.jpg";
+import mrowl2 from "./mrowl2.jpg";
+import mrowl3 from "./mrowl3.jpg";
+import mrowl4 from "./mrowl4.jpg";
+import mrowl5 from "./mrowl5.jpg";
+import mrowl6 from "./mrowl6.jpg";
 
 class MrOwlContent extends Component {
   render() {

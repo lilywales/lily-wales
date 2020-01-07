@@ -11,7 +11,7 @@ import nuclearosisHomeImg from "./nuclearosisHome.jpg";
 import blueStreakHomeImg from "./blueStreakHome.jpg";
 import aboutHomeImg from "./aboutHome.png";
 import bikiniBottomHomeImg from "./bikiniBottomHome.png";
-import mrOwlHomeImg from "./mrOwlHome.png";
+import mrOwlHomeImg from "./mrOwlHome.jpg";
 
 const styles = {
   homeImg: {

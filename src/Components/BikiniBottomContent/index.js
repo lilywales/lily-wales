@@ -20,7 +20,7 @@ class BikiniBottomContent extends Component {
 					<img className="bb1" src={bb1} alt="A hot pink background with a mutated crustacean photomontage. It's head is formed from a vintage diving suit and the body is black adn white organic matter. Blue pincers pertrude from the bottm of the body." />
 					<img className="bb2" src={bb2} alt="A vibrant blue with a turquoise tone is the background for a mutated tuna like fish that has the facial features of a mad scientist" />
 					<div className="bb3and4 desktopImgs">
-						<img className="bb3" src={bb3} alt="An orange background with a jellyfish like creature. It has a long black and white body with splahes of pink detail. There are six tentacles, some flow softly and others are shraper and more rigid." />
+						<img className="bb3" src={bb3} alt="An orange background with a jellyfish like creature. It has a long black and white body with splashes of pink detail. There are six tentacles, some flow softly and others are shraper and more rigid." />
 						<img className="bb4" src={bb4} alt="A starfish like creature, that is a parady of Patrick from Spongebob Squarepants. His body is spotty and only the lower two legs are in colour, a redish pink." />
 					</div>
 					<div className="bb5and6 desktopImgs">

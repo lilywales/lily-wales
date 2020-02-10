@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./contactContent.css";
-import contactImage from "./nuclearosisHome.jpg";
+import contactImage from "./../HomeImages/contactHome.jpg";
 import twitter from "./twitter.png";
 import insta from "./insta.png";
 

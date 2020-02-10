@@ -1,0 +1,211 @@
+.akText {
+    position: absolute;
+	right: 5.5%;
+	top: 40%;
+	height: 800px;
+	width: 290px;
+    text-align: right;
+    color: rgb(9, 116, 165);
+}
+
+.ak1 {
+    position: absolute;
+    padding: 5% 0 0 5%;
+    height: 85%;
+  }
+
+.ak2 {
+    position: absolute;
+    height: 70%;
+    top: 110%;
+    right: 5%;
+  }
+
+  .ak3 {
+    position: absolute;
+    height: 70%;
+    top: 193%;
+    left: 5%;
+}
+
+.ak4 {
+    position: absolute;
+    height: 70%;
+    top: 277%;
+    right: 5%;
+}
+
+.ak5and6{
+    position: absolute;
+    height: 90%;
+    width: 85%;
+    top: 366%;
+    left: 5%;
+}
+
+.ak5 {
+    position: relative;
+    height: 90%;
+    
+}
+
+.ak6 {
+    position: relative;
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
+
+.ak7 {
+    position: absolute;
+    height: 70%;
+    top: 113%;
+    right: -5%;
+}
+
+.ak8 {
+    position: absolute;
+    height: 70%;
+    top: 203%;
+    left: 5%;
+}
+
+.ak9 {
+    position: absolute;
+    height: 70%;
+    top: 290%;
+    right: -5%;
+}
+
+.ak10 {
+    position: absolute;
+    left: 5%;
+    height: 85%;
+    top: 380%;
+}
+
+
+
+@media screen and (max-width: 900px) and (min-width: 763px) {
+
+    .akText {
+        top: 75%;
+        width: 230px;
+    }
+
+    .ak1 {
+      padding: 108px 0 0 0;
+      right: 9%;
+      height: 60%;
+    }
+
+    .ak2 {
+        top: 100%;
+        right: 9%;
+        height: 40%;
+    }
+
+    .ak3 {
+        top: 150%;
+        height: 40%;
+    }
+
+    .ak4 {
+        top: 201%;
+        height: 40%;
+    }
+
+    .ak5and6{
+        height: 40%;
+        width: 65%;
+        top: 253%;
+    }
+
+    .ak6 {
+        height: 50%;
+        padding-bottom: 15%;
+    }
+
+    .ak7 {
+        height: 80%;
+        right: -30%;
+    }
+
+    .ak8 {
+        top: 217%;
+        height: 80%;
+    }
+
+    .ak9 {
+        top: 319%;
+        right: -30%;
+    }
+
+    .ak10 {
+        top: 407%;
+        height: 90%;
+    }
+}
+
+@media only screen and (max-width: 665px) {
+    .akText {
+        top: 60%;
+        width: 160px;
+    }
+
+    .ak1 {
+        padding: 68px 0 0 0;
+        right: 9%;
+        height: 45%;
+    }
+
+    .ak2 {
+        top: 95%;
+        right: 9%;
+        height: 30%;
+    }
+
+    .ak3 {
+        top: 135%;
+        height: 30%;
+    }
+
+    .ak4 {
+        top: 177%;
+        height: 30%;
+        right: 9%;
+    }
+
+    .ak5and6{
+        height: 40%;
+        width: 85%;
+        top: 219%;
+    }
+
+    .ak6 {
+        height: 50%;
+        padding-bottom: 15%;
+    }
+
+    .ak7 {
+        padding-top: 10%;
+        height: 70%;
+        right: 0%;
+    }
+
+    .ak8 {
+        top: 230%;
+        height: 70%;
+    }
+
+    .ak9 {
+        top: 330%;
+        height: 70%;
+        right: 0%;
+    }
+
+    .ak10 {
+        top: 433%;
+        height: 80%;
+    }
+
+}

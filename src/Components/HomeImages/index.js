@@ -4,14 +4,13 @@ import MediaQuery from "react-responsive";
 import "./HomeImages.css";
 import rhondaHomeImg from "./rhondaHome.jpg";
 import plumbobHomeImg from "./operationPlumbobHome.png";
-import babyJanesHomeImg from "./babyJanesHome.jpg";
-import warMachineHomeImg from "./warMachineHome.jpg";
 import lasVaguenessHomeImg from "./lasVaguenessHome.jpg";
-import nuclearosisHomeImg from "./nuclearosisHome.jpg";
 import blueStreakHomeImg from "./blueStreakHome.jpg";
 import aboutHomeImg from "./aboutHome.png";
 import bikiniBottomHomeImg from "./bikiniBottomHome.png";
 import mrOwlHomeImg from "./mrOwlHome.jpg";
+import atomicKittenHomeImg from "./atomicKittenHome.jpg";
+import contactHomeImg from "./contactHome.jpg";
 
 const styles = {
   homeImg: {
@@ -55,21 +54,17 @@ class HomeImages extends Component {
         className: "rhondaTitle",
         path: "./radioactiverhonda"
       },
+
+      {
+        label: "Atomic Kitten",
+        src: atomicKittenHomeImg,
+        path: "./atomickitten"
+      },
+
       {
         label: "Blue Streak",
         src: blueStreakHomeImg,
         path: "/bluestreak"
-      },
-      { label: "War Machine", src: warMachineHomeImg, path: "/warmachine" },
-      {
-        label: "What Ever Happened to all the Baby Janes?",
-        src: babyJanesHomeImg,
-        path: "./whateverhappenedtoallthebabyjanes"
-      },
-      {
-        label: "Bikini Bottom",
-        src: bikiniBottomHomeImg,
-        path: "./bikinibottom"
       },
 
       {
@@ -78,6 +73,7 @@ class HomeImages extends Component {
         className: "lasVaguenessTitle",
         path: "./lasVagueness"
       },
+
       {
         label: "Mr Owl Ate My Metal Worm",
         src: mrOwlHomeImg,
@@ -90,7 +86,12 @@ class HomeImages extends Component {
         className: "phormTitle",
         path: "./operationPlumbob"
       },
-      { label: "Contact", src: nuclearosisHomeImg, path: "contact" },
+      {
+        label: "Bikini Bottom",
+        src: bikiniBottomHomeImg,
+        path: "./bikinibottom"
+      },
+      { label: "Contact", src: contactHomeImg, path: "contact" },
       { label: "About", src: aboutHomeImg, path: "about" }
     ];
 

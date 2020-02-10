@@ -4,8 +4,9 @@ import LilyWales from "./../../Components/LilyWales";
 import HomeButton from "./../../Components/HomeButton";
 import ProjectTitle from "./../../Components/ProjectTitle";
 import BackToTop from "./../../Components/BackToTop";
-import aboutImage from "./aboutImg.png";
+import aboutImage from "./../../Components/BikiniBottomContent/bb5.png";
 import MediaQuery from "react-responsive";
+
 
 class About extends Component {
   render() {
@@ -13,7 +14,7 @@ class About extends Component {
       <div>
         <LilyWales color="rgb(248,39,127)" />
         <ProjectTitle title="About" color="rgb(0,204,255)" />
-        <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
+        <img className="aboutImg" src={aboutImage} alt="A photomontage from the series Bikini Bottom. A mostly black and white collage with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
         <div className="bio">
       Lily Wales is a UK
 based artist working
@@ -30,12 +31,13 @@ on the bizarre naming of atomic bombs, in order to
 examine the ability
 language has to
 anaesthetise public
-perception. Her practice now aims to reframe the narrative around nuclear weaponry by exploring its impact on the natural and political climate.
+perception. Her practice now aims to reframe the narrative around nuclear energy by exploring its impact on the natural and political climate.
 
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
-            <li>Connections Through Culture grant, British Council, Indonesia, upcoming 2020</li>
+            <li>Connections Through Culture grant, British Council, Indonesia, 2020</li>
+            <li>Hamburg, BOM bursary, 2020</li>
             <li>Fellow, Birmingham Open Media, 2019-2020</li>
             <li>New York, a-n bursary, 2019</li>
             <li>The New Art Gallery Walsall residency, 2018</li>

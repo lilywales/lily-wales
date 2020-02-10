@@ -4,9 +4,8 @@ import MediaQuery from "react-responsive";
 import rhonda from "./../../Components/HomeImages/rhondaHome.jpg";
 import blue from "./../../Components/HomeImages/blueStreakHome.jpg";
 import lasV from "./../../Components/HomeImages/lasVaguenessHome.jpg";
-import babyJ from "./../../Components/HomeImages/babyJanesHome.jpg";
-import warM from "./../../Components/HomeImages/warMachineHome.jpg";
-import nuc from "./../../Components/HomeImages/nuclearosisHome.jpg";
+import contact from "./../../Components/HomeImages/contactHome.jpg";
+import atomicK from "./../../Components/HomeImages/atomicKittenHome.jpg";
 
 const styles = {
 
@@ -38,19 +37,17 @@ class HomeImagesGif extends Component {
             <img src={rhonda} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
           <Frame duration={3000}>
+            <img src={atomicK} alt="" style={styles.homeImagesPhoneGif} />
+          </Frame>
+          <Frame duration={3000}>
             <img src={blue} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
           <Frame duration={3000}>
             <img src={lasV} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
+
           <Frame duration={3000}>
-            <img src={babyJ} alt="" style={styles.homeImagesPhoneGif} />
-          </Frame>
-          <Frame duration={3000}>
-            <img src={warM} alt="" style={styles.homeImagesPhoneGif} />
-          </Frame>
-          <Frame duration={3000}>
-            <img src={nuc} alt="" style={styles.homeImagesPhoneGif} />
+            <img src={contact} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
         </Keyframes>
       </MediaQuery>
@@ -62,22 +59,20 @@ class HomeImagesGif extends Component {
           style={styles.homeImagesIpadGif}
         >
         <Frame alt="Blue Streak" duration={3000}>
-          <img src={rhonda} alt="" style={styles.homeImagesPhoneGif} />
+          <img src={rhonda} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
         <Frame duration={3000}>
-          <img src={blue} alt="" style={styles.homeImagesPhoneGif} />
+          <img src={atomicK} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
         <Frame duration={3000}>
-          <img src={lasV} alt="" style={styles.homeImagesPhoneGif} />
+          <img src={blue} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
         <Frame duration={3000}>
-          <img src={babyJ} alt="" style={styles.homeImagesPhoneGif} />
+          <img src={lasV} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
+     
         <Frame duration={3000}>
-          <img src={warM} alt="" style={styles.homeImagesPhoneGif} />
-        </Frame>
-        <Frame duration={3000}>
-          <img src={nuc} alt="" style={styles.homeImagesPhoneGif} />
+          <img src={contact} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
       </Keyframes>
     </MediaQuery>

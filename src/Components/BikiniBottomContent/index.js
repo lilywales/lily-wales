@@ -25,7 +25,7 @@ class BikiniBottomContent extends Component {
 					</div>
 					<div className="bb5and6 desktopImgs">
 						<img className="bb5" src={bb5} alt="A parady of Squidward on a neon green background. Embedded in the stiff upright body is a gas mask that mirrors the circular framework of the coral that acts as Squidward's face." />
-						<img className="bb6" src={bb6} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
+						<img className="bb6" src={bb6} alt="A photomontage from the series Bikini Bottom. A mostly black and white piece with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
 					</div>
 					<img className="bb7" src={bb7} alt="A blob fish like mound sits in a puddle of melted organic matter, against a hot pink background." />
 					<div className="bb8and9 desktopImgs">
@@ -48,7 +48,7 @@ class BikiniBottomContent extends Component {
 				<img className="bb3mob" src={bb3} alt="An orange background with a jellyfish like creature. It has a long black and white body with splahes of pink detail. There are six tentacles, some flow softly and others are shraper and more rigid." />
 				<img className="bb4mob" src={bb4} alt="A starfish like creature, that is a parady of Patrick from Spongebob Squarepants. His body is spotty and only the lower two legs are in colour, a redish pink." />
 				<img className="bb5mob" src={bb5} alt="A parady of Squidward on a neon green background. Embedded in the stiff upright body is a gas mask that mirrors the circular framework of the coral that acts as Squidward's face." />
-				<img className="bb6mob" src={bb6} alt="A photomontage from the series Bikini Bottom. A mostly black and white image with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
+				<img className="bb6mob" src={bb6} alt="A photomontage from the series Bikini Bottom. A mostly black and white artwoek with flashes of red. The piece is a sea like creature formed of organic and mechanical elements. It has a lumpy and rounded triangular body with a long muscular neck that curls up and to the left, with a mutated head that is slightly smaller than the body." />
 				<img className="bb8mob" src={bb8} alt="A formation of coral that curls round encasing a mysterious form made up of a vintage diving suit." />
 				<img className="bb9mob" src={bb9} alt="A loose parady of a Spongebob Squarepants. Its rectangular face is symetrical with the surface of burnt skin. One leg is an old boot and another has been appropriated by a mushroom." />
 				<img className="bb11mob" src={bb11} alt="On a vibrant blue with a turquoise tone, is an aggressive looking seagull with sharp teeth and a pretuding eye coming out of its back. Its neck is bent in a dramatic manner and one leg is formed of jagged crystals" />

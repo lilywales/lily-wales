@@ -22,7 +22,7 @@ class AtomicKittenContent extends Component {
           <p>Atomic Kitten explores the impact objects of war have on both the natural and poltical climate. Commenting on invisible systems that run on automatic within the societal infrastructure.</p>
         </div>
       	<img className="ak1" src={ak1} alt="A black and white checkered backround that is crumpled around a mushroom shaped form, with a circular bottom of sharp teeth."/>
-        <img className="ak2" src={mosh} alt="A pink neon background with neon green flecks. In the middle is a black and white form that is organic in nature, with submarine elements. There is a thin swirled tail that coils, the overal form is loosely triangular. Along the bottom is a yellow that bleeds into the montage."/>
+        <img className="ak2" src={ak2} alt="A pink neon background with neon green flecks. In the middle is a black and white form that is organic in nature, with submarine elements. There is a thin swirled tail that coils, the overal form is loosely triangular. Along the bottom is a yellow that bleeds into the montage."/>
         <img className="ak3" src={ak3} alt="A neon yellow background with two peice of neon green tape visible at the top. The black shape in the middle, is similar to the shape of a submarine but with an insect like appearance. Along the bottom of the creature drips a bright toxic purple."/>
         <img className="ak4" src={ak4} alt="A checkered backrgound that folds on the righthand side. The organic and mechnaical creature has a drill like appearance."/>
         <div className="ak5and6">

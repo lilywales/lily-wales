@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './atomicKittenContent.css';
 import ak1 from './ak1.jpg';
 import ak2 from './ak2.jpg';
-import mosh from './mosh.gif';
 import ak3 from './ak3.jpg';
 import ak4 from './ak4.jpg';
 import ak5 from './ak5.jpg';

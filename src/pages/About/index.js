@@ -36,6 +36,7 @@ perception. Her practice now aims to reframe the narrative around nuclear energy
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
+            <li>Artist in residence, Pushkins Prefers, 2020</li>
             <li>Connections Through Culture grant, British Council, Indonesia, 2020</li>
             <li>Hamburg, BOM bursary, 2020</li>
             <li>Fellow, Birmingham Open Media, 2019-2020</li>

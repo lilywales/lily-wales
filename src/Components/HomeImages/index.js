@@ -4,12 +4,12 @@ import MediaQuery from "react-responsive";
 import "./HomeImages.css";
 import rhondaHomeImg from "./rhondaHome.jpg";
 import silverfishHomeImg from "./silverfishHome.jpg";
-import lasVaguenessHomeImg from "./lasVaguenessHome.jpg";
+
 import blueStreakHomeImg from "./blueStreakHome.jpg";
 import aboutHomeImg from "./aboutHome.png";
 import bikiniBottomHomeImg from "./bikiniBottomHome.png";
-import mrOwlHomeImg from "./mrOwlHome.jpg";
-import atomicKittenHomeImg from "./atomicKittenHome.jpg";
+
+
 import contactHomeImg from "./contactHome.jpg";
 
 const styles = {

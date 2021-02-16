@@ -1,0 +1,102 @@
+.image_wrapper {
+    position: realtive;
+    width: 100%;
+  
+  }
+  
+  .sfish1 {
+    position: absolute;
+    padding: 5% 0 0 5%;
+    height: 115%;
+
+  }
+  
+  .sfishText {
+	position: absolute;
+	right: 5.5%;
+	top: 40%;
+	height: 800px;
+	width: 295px;
+	text-align: right;
+	color: rgb(108, 229, 221);
+}
+
+a {
+    color: rgb(108, 229, 221);
+    text-decoration: none;
+}
+
+.sfish2 {
+    position: absolute;
+    height: 75%;
+    top: 140%;
+    right: 5%;
+
+  }
+
+  .sfish3 {
+    position: absolute;
+    height: 75%;
+    top: 231%;
+    left: 5%;
+
+  }
+
+
+@media screen and (max-width: 900px) and (min-width: 763px) {
+    .sfish1 {
+      padding: 78px 0 0 0;
+      right: 9%;
+      height: 85%;
+    }
+  
+
+    .sfish2 {
+      top: 120%;
+      right: 9%;
+      height: 37%;
+    }
+  
+    .sfish3 {
+ 
+      top: 170%;
+      right: 5%;
+      height: 35%;
+    }
+  
+ 
+    .sfishText{
+        top: 100%;
+        width: 260px;
+  }
+  
+  
+  }
+  
+  
+  @media only screen and (max-width: 665px) {
+    .sfish1 {
+      height: 60%;
+      top: 26px;
+      right: 9%;
+    }
+  
+    .sfish2 {
+      top: 95%;
+      height: 30%;
+      right: 9%;
+    }
+  
+    .sfish3 {
+      top: 135%;
+      height: 25%;
+      left: 5%;
+    }
+
+    .sfishText {
+          right: 7%;
+          top: 72%;
+          width: 220px;
+      }
+  }
+  

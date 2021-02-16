@@ -6,6 +6,7 @@ import blue from "./../../Components/HomeImages/blueStreakHome.jpg";
 import lasV from "./../../Components/HomeImages/lasVaguenessHome.jpg";
 import contact from "./../../Components/HomeImages/contactHome.jpg";
 import atomicK from "./../../Components/HomeImages/atomicKittenHome.jpg";
+import silverfish from "./../../Components/HomeImages/silverfishHome.jpg";
 
 const styles = {
 
@@ -37,6 +38,9 @@ class HomeImagesGif extends Component {
             <img src={rhonda} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
           <Frame duration={3000}>
+            <img src={silverfish} alt="" style={styles.homeImagesPhoneGif} />
+          </Frame>
+          <Frame duration={3000}>
             <img src={atomicK} alt="" style={styles.homeImagesPhoneGif} />
           </Frame>
           <Frame duration={3000}>
@@ -61,6 +65,9 @@ class HomeImagesGif extends Component {
         <Frame alt="Blue Streak" duration={3000}>
           <img src={rhonda} alt="" style={styles.homeImagesIpadGif} />
         </Frame>
+        <Frame duration={3000}>
+            <img src={silverfish} alt="" style={styles.homeImagesPhoneGif} />
+          </Frame>
         <Frame duration={3000}>
           <img src={atomicK} alt="" style={styles.homeImagesIpadGif} />
         </Frame>

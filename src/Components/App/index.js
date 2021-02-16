@@ -12,6 +12,7 @@ import OperationPlumbob from "../../pages/OperationPlumbob";
 import Contact from "../../pages/Contact";
 import MrOwl from "../../pages/MrOwl";
 import AtomicKitten from "../../pages/AtomicKitten";
+import Silverfish from "../../pages/Silverfish";
 //creating routes for site
 const App = () => (
   <main>
@@ -26,6 +27,7 @@ const App = () => (
       <Route path="/contact" component={Contact} />
       <Route path="/mrowlatedownmymetalworm" component={MrOwl} />
       <Route path="/atomickitten" component={AtomicKitten} />
+      <Route path="/silverfish" component={Silverfish} />
     </Switch>
   </main>
 );

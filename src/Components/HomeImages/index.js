@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import MediaQuery from "react-responsive";
 import "./HomeImages.css";
 import rhondaHomeImg from "./rhondaHome.jpg";
-import plumbobHomeImg from "./operationPlumbobHome.png";
+import silverfishHomeImg from "./silverfishHome.jpg";
 import lasVaguenessHomeImg from "./lasVaguenessHome.jpg";
 import blueStreakHomeImg from "./blueStreakHome.jpg";
 import aboutHomeImg from "./aboutHome.png";
@@ -55,11 +55,11 @@ class HomeImages extends Component {
         path: "./radioactiverhonda"
       },
 
-      {
-        label: "Atomic Kitten",
-        src: atomicKittenHomeImg,
-        path: "./atomickitten"
-      },
+      // {
+      //   label: "Atomic Kitten",
+      //   src: atomicKittenHomeImg,
+      //   path: "./atomickitten"
+      // },
 
       {
         label: "Blue Streak",
@@ -67,30 +67,31 @@ class HomeImages extends Component {
         path: "/bluestreak"
       },
 
-      {
-        label: "Las Vagueness",
-        src: lasVaguenessHomeImg,
-        className: "lasVaguenessTitle",
-        path: "./lasVagueness"
-      },
+      // {
+      //   label: "Las Vagueness",
+      //   src: lasVaguenessHomeImg,
+      //   className: "lasVaguenessTitle",
+      //   path: "./lasVagueness"
+      // },
 
-      {
-        label: "Mr Owl Ate My Metal Worm",
-        src: mrOwlHomeImg,
-        className: "MrOwlTitle",
-        path: "./mrowlatedownmymetalworm"
-      },
-      {
-        label: "Operation Plumbob",
-        src: plumbobHomeImg,
-        className: "phormTitle",
-        path: "./operationPlumbob"
-      },
+      // {
+      //   label: "Mr Owl Ate My Metal Worm",
+      //   src: mrOwlHomeImg,
+      //   className: "MrOwlTitle",
+      //   path: "./mrowlatedownmymetalworm"
+      // },
+      // {
+      //   label: "Operation Plumbob",
+      //   src: plumbobHomeImg,
+      //   className: "phormTitle",
+      //   path: "./operationPlumbob"
+      // },
       {
         label: "Bikini Bottom",
         src: bikiniBottomHomeImg,
         path: "./bikinibottom"
       },
+      { label: "Silverfish", src: silverfishHomeImg, path: "silverfish" },
       { label: "Contact", src: contactHomeImg, path: "contact" },
       { label: "About", src: aboutHomeImg, path: "about" }
     ];

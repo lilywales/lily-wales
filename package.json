@@ -9,11 +9,13 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-keyframes": "^0.2.3",
+    "react-linkify": "^1.0.0-alpha",
     "react-parallax": "^2.2.4",
     "react-player": "^1.15.3",
     "react-responsive": "^8.0.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "vimeo": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",

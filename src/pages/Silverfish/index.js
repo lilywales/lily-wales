@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Linkify from 'react-linkify';
 import MediaQuery from "react-responsive";
 import LilyWales from "./../../Components/LilyWales";
 import ProjectTitle from "./../../Components/ProjectTitle";

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@u-wave/react-vimeo": "^0.9.3",
     "accessibility": "^2.0.0",
     "lint": "^0.7.0",
     "node-sass": "^4.13.1",

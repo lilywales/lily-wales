@@ -11,20 +11,9 @@
 
   }
   
-  .sfishText {
-	position: absolute;
-	right: 5.5%;
-	top: 40%;
-	height: 800px;
-	width: 295px;
-	text-align: right;
-	color: rgb(108, 229, 221);
-}
 
-a {
-    color: rgb(108, 229, 221);
-    text-decoration: none;
-}
+
+
 
 .sfish2 {
     position: absolute;
@@ -41,6 +30,8 @@ a {
     left: 5%;
 
   }
+
+
 
 
 @media screen and (max-width: 900px) and (min-width: 763px) {
@@ -65,11 +56,7 @@ a {
     }
   
  
-    .sfishText{
-        top: 100%;
-        width: 260px;
-  }
-  
+
   
   }
   
@@ -93,10 +80,5 @@ a {
       left: 5%;
     }
 
-    .sfishText {
-          right: 7%;
-          top: 72%;
-          width: 170px;
-      }
   }
   

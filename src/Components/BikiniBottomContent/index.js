@@ -44,6 +44,7 @@ class BikiniBottomContent extends Component {
 						1946 and<br /> 1958.
 					</p>
 
+
 			<div className="mobImgs">
 				<img className="bb3mob" src={bb3} alt="An orange background with a jellyfish like creature. It has a long black and white body with splahes of pink detail. There are six tentacles, some flow softly and others are shraper and more rigid." />
 				<img className="bb4mob" src={bb4} alt="A starfish like creature, that is a parady of Patrick from Spongebob Squarepants. His body is spotty and only the lower two legs are in colour, a redish pink." />

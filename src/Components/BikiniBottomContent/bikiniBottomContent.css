@@ -19,8 +19,6 @@
 	height: 87%;
 }
 
-
-
 .bb3 {
 	position: relative;
   height: 100%;
@@ -28,7 +26,7 @@
 
 .bb4 {
 	position: relative;
-    height: 80%;
+  height: 80%;
   padding-bottom: 70px;
   padding-left: 80px;
 
@@ -38,7 +36,6 @@
 	top: 334%;
 	right: 10%;
 	height: 93%;
-
 }
 
 .bb5 {
@@ -50,8 +47,6 @@
 .bb6 {
   position: relative;
   height: 100%;
-
-
 }
 
 .bb7 {
@@ -60,12 +55,12 @@
 	padding-left: 5%;
 	height: 90%;
 }
+
 .bb8and9 {
 	position: absolute;
 	top: 547%;
 	height: 95%;
 	right: 9%;
-
 }
 
 .bb8 {
@@ -73,13 +68,11 @@
   height: 60%;
   padding-bottom: 100px;
   padding-right: 30px;
-
 }
 
 .bb9 {
   position: relative;
   height: 95%;
-
 }
 
 .bb10 {
@@ -94,7 +87,6 @@
 	top: 780%;
 	right: 9%;
 	height: 95%;
-
 }
 
 .bb11 {
@@ -107,9 +99,7 @@
 .bb12 {
   position: relative;
   height: 96%;
-
 }
-
 
 .BBdescript {
 	position: absolute;
@@ -134,53 +124,58 @@
   .bb2 {
   top: 95%;
   height: 45%;
-}
+  }
 
 .bb3and4 {
   top: 152%;
   left: 9%;
   height: 45%;
-}
+  }
+
 .bb5and6 {
   top: 209%;
   height: 35%;
   left: 18%;
-}
+  }
+
 .bb7 {
   top: 264%;
   padding-left: 0;
   height: 44%;
   right: 5.5%;
-}
+  }
+
 .bb8and9 {
   top: 319%;
   height: 43%;
-  right: 9%;
-
-}
+  right: 9%;  
+  }
 
 .bb8 {
   padding-bottom: 70px;
     padding-right: 20px;
-}
+  }
+
 .bb10 {
   top: 369%;
   right: 7%;
   height: 51%;
-}
+  }
 
 .bb11and12 {
   top: 428%;
   height: 45%;
-}
+  }
+
 .bb11 {
   padding-bottom: 22px;
     padding-right: 20px;
-}
+  }
 
 .BBdescript {
   top: 72%;
-}
+  }
+  
 }
 
 @media only screen and (max-width: 600px) {

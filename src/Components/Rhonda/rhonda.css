@@ -47,8 +47,6 @@
   padding-bottom: 4%;
 }
 
-
-
 .RTextWrapper {
 	position: absolute;
 	right: 5.5%;
@@ -58,6 +56,8 @@
 	text-align: right;
 	color: rgb(237, 40, 52);
 }
+
+
 
 @media screen and (max-width: 900px) and (min-width: 763px) {
   .rhonda1 {
@@ -103,10 +103,10 @@
     left: 5%;
     height: 35%;
   }
+
   .RTextWrapper {
   	top: 100%;
 }
-
 
 }
 
@@ -156,8 +156,10 @@ display:none;
     padding-left: 0%;
     right: 5%;
   }
+
   .RTextWrapper {
 		right: 7%;
 		top: 72%;
 	}
+
 }

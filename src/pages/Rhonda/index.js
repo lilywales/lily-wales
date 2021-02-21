@@ -18,6 +18,9 @@ class RadioactiveRhonda extends Component {
             color="rgb(255,32,32)"
             width="92%"
           />{" "}
+
+
+
           <HomeButton color="rgb(0,255,126)" top="487%" right="5.5%" />
           <BackToTop color="rgb(0,255,126)" top="483.5%" right="5.5%" />
           <PhotoCredit
@@ -35,6 +38,7 @@ class RadioactiveRhonda extends Component {
             lineHeight="0.7"
             top="51px"
           />{" "}
+
           <HomeButton
             color="rgb(0,255,126)"
             top="333%"
@@ -57,6 +61,7 @@ class RadioactiveRhonda extends Component {
             lineHeight="0.7"
             top="26px"
           />
+
           <HomeButton
             color="rgb(0,255,126)"
             top="363%"

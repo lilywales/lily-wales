@@ -48,6 +48,7 @@ class HomeImages extends Component {
 
   render() {
     const images = [
+      { label: "Silverfish", src: silverfishHomeImg, path: "silverfish" },
       {
         label: "Radioactive Rhonda!",
         src: rhondaHomeImg,
@@ -91,7 +92,7 @@ class HomeImages extends Component {
         src: bikiniBottomHomeImg,
         path: "./bikinibottom"
       },
-      { label: "Silverfish", src: silverfishHomeImg, path: "silverfish" },
+      
       { label: "Contact", src: contactHomeImg, path: "contact" },
       { label: "About", src: aboutHomeImg, path: "about" }
     ];

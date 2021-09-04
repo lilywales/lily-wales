@@ -36,15 +36,18 @@ perception. Her practice now aims to reframe the narrative around nuclear energy
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
+            <li>National Lottery Project Grant, Arts Council, 2021</li>
+            <li>Black Hole Club Member, Vivid Projects, 2021-2022</li>
             <li>Artist in residence, Pushkins Prefers, 2020</li>
             <li>Connections Through Culture grant, British Council, Indonesia, 2020</li>
             <li>Hamburg, BOM bursary, 2020</li>
-            <li>Fellow, Birmingham Open Media, 2019-2020</li>
+            <li>Fellow, Birmingham Open Media, 2019-2021</li>
             <li>New York, a-n bursary, 2019</li>
             <li>The New Art Gallery Walsall residency, 2018</li>
             <li>Hiroshima & Nagasaki, DYCP Arts Council England, 2018</li>
             <li>Nevada Test Site, Engine & Grain bursary, 2018</li>
           <p>SHOWS</p>
+            <li>DOOM (Turn Away from the Sun), Vivid, 2021</li>
             <li>Coventry Biennial, 2019</li>
             <li>Illustrated Brum X PMT, 2019</li>
             <li>Blue Streak in Mezz, The New Art Gallery Walsall, 2019</li>

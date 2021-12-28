@@ -16,7 +16,7 @@ class Silverfish extends Component {
           <SilverfishContent/>
             <MediaQuery minWidth={900}>
               <ProjectTitle title="Silverfish" color="rgb(108, 229, 221)"     top="135.5px" />
-              <ProjectBio bio="SILVERFISH trailer. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="86%" height="300px"/>
+              <ProjectBio bio="SILVERFISH episode one. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="86%" height="300px"/>
               <HomeButton
                 color="rgb(246, 147, 239)"
                 top="218.5%"

@@ -20,7 +20,7 @@ const SilverfishAnimation = props => {
   smallvid: {
     position: 'absolute',
     right: '9%',
-    top: props.top || '102%',
+    top: props.top || '104%',
 
   }
   };

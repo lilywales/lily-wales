@@ -15,7 +15,7 @@
 .sfish2 {
     position: absolute;
     height: 75%;
-    top: 217%;
+    top: 237%;
     left: 5%;
 
   }
@@ -23,13 +23,68 @@
   .sfish3 {
     position: absolute;
     height: 75%;
-    top: 310%;
+    top: 330%;
     right: 5%;
 
   }
 
+  .sfish4 {
+    position: absolute;
+    height: 75%;
+    top: 420%;
+    left: 5%;
+  }
+
+  .sfish5 {
+    position: absolute;
+    height: 75%;
+    top: 510%;
+    right: 5%;
+  }
+
+  .sfish6 {
+    position: absolute;
+    height: 75%;
+    top: 600%;
+    left: 5%;
+  }
 
 
+  .sfish7 {
+    position: absolute;
+    height: 75%;
+    top: 690%;
+    right: 5%;
+  }
+
+  .sfish8 {
+    position: absolute;
+    height: 75%;
+    top: 780%;
+    left: 5%;
+  }
+
+  .sfish10 {
+    position: absolute;
+    height: 75%;
+    top: 870%;
+    right: 5%;
+  }
+
+  .sfish14 {
+    position: absolute;
+    height: 75%;
+    top: 960%;
+    left: 5%;
+  }
+
+
+  .sfish16 {
+    position: absolute;
+    height: 75%;
+    top: 1050%;
+    right: 5%;
+  }
 
 @media screen and (max-width: 900px) and (min-width: 763px) {
     .sfish1 {
@@ -40,19 +95,71 @@
   
 
     .sfish2 {
-      top: 127.5%;
+      top: 175%;
       right: 9%;
       height: 37%;
     }
   
     .sfish3 {
  
-      top: 170%;
+      top: 220%;
       right: 5%;
       height: 35%;
     }
   
  
+    .sfish4 {
+     
+      height: 35%;
+      top: 263%;
+      left: 5%;
+    }
+  
+    .sfish5 {
+    
+      height: 35%;
+      top: 306%;
+      right: 5%;
+    }
+  
+    .sfish6 {
+      
+      height: 35%;
+      top: 349%;
+      left: 5%;
+    }
+  
+  
+    .sfish7 {
+      height: 35%;
+      top: 392%;
+      right: 5%;
+    }
+  
+    .sfish8 {
+      height: 35%;
+      top: 435%;
+      left: 5%;
+    }
+  
+    .sfish10 {
+      height: 35%;
+      top: 478%;
+      right: 5%;
+    }
+  
+    .sfish14 {
+      height: 35%;
+      top: 520%;
+      left: 5%;
+    }
+  
+  
+    .sfish16 {
+      height: 35%;
+      top: 563%;
+      right: 5%;
+    }
 
   
   }
@@ -66,14 +173,66 @@
     }
   
     .sfish2 {
-      top: 124%;
+      top: 140%;
       height: 16%;
       right: 9%;
     }
   
     .sfish3 {
-      top: 148%;
+      top: 161%;
       height: 16%;
+      right: 5%;
+    }
+    .sfish4 {
+     
+      height: 16%;
+      top: 182%;
+      left: 5%;
+    }
+  
+    .sfish5 {
+    
+      height: 16%;
+      top: 203%;
+      right: 5%;
+    }
+  
+    .sfish6 {
+      
+      height: 16%;
+      top: 224%;
+      left: 5%;
+    }
+  
+  
+    .sfish7 {
+      height: 16%;
+      top: 245%;
+      right: 5%;
+    }
+  
+    .sfish8 {
+      height: 16%;
+      top: 266%;
+      left: 5%;
+    }
+  
+    .sfish10 {
+      height: 16%;
+      top: 287%;
+      right: 5%;
+    }
+  
+    .sfish14 {
+      height: 16%;
+      top: 308%;
+      left: 5%;
+    }
+  
+  
+    .sfish16 {
+      height: 16%;
+      top: 329%;
       right: 5%;
     }
 

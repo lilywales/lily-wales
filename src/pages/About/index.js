@@ -36,6 +36,7 @@ perception. Her practice now aims to reframe the narrative around nuclear energy
         </div>
         <div className="cv">
           <p>RESIDENCIES AND RESEARCH</p>
+            <li>Resident, Birmingham Open Media, 2022</li>
             <li>Time space money, a-n, 2021</li>
             <li>National Lottery Project Grant, Arts Council, 2021</li>
             <li>Black Hole Club Member, Vivid Projects, 2021-2022</li>

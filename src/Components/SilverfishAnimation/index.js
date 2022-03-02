@@ -8,19 +8,19 @@ const SilverfishAnimation = props => {
   largevid: {
     position: 'absolute',
     right: '5.5%',
-    top: props.top || '140%',
+    top: props.top || '165%',
 
   },
   mediumvid: {
     position: 'absolute',
     right: '5.5%',
-    top: props.top || '125%',
+    top: props.top || '140%',
 
   },
   smallvid: {
     position: 'absolute',
     right: '9%',
-    top: props.top || '104%',
+    top: props.top || '120%',
 
   }
   };

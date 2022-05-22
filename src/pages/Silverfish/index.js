@@ -16,7 +16,7 @@ class Silverfish extends Component {
           <SilverfishContent/>
             <MediaQuery minWidth={900}>
               <ProjectTitle title="Silverfish" color="rgb(108, 229, 221)"     top="135.5px" />
-              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship, The starting point in the R&D was a visit to a U-434 submarine in Hamburg and the Blankenese ship wreckages. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="86%" height="300px"/>
+              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="86%" height="300px"/>
               <HomeButton
                 color="rgb(246, 147, 239)"
                 top="1138.5%"
@@ -32,7 +32,7 @@ class Silverfish extends Component {
                 color="rgb(108, 229, 221)"
                 top="65.5px"
               />{" "}
-              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship, The starting point in the R&D was a visit to a U-434 submarine in Hamburg and the Blankenese ship wreckages. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="100%" width="260px" />
+              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="100%" width="260px" />
               <BackToTop color="rgb(246, 147, 239)" top="607%" left="4.8%" />
               <HomeButton
                 color="rgb(246, 147, 239)"
@@ -56,7 +56,7 @@ class Silverfish extends Component {
                 color="rgb(108, 229, 221)"
                 top="37px"
               />
-              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship, The starting point in the R&D was a visit to a U-434 submarine in Hamburg and the Blankenese ship wreckages. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="70%" width="200px" right="7%" />
+              <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="70%" width="200px" right="7%" />
             </MediaQuery>
 
             <MediaQuery maxWidth={321}>
@@ -71,7 +71,7 @@ class Silverfish extends Component {
                 left="4.8%"
                 paddingBottom="50px"
                 />{" "}
-                <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship, The starting point in the R&D was a visit to a U-434 submarine in Hamburg and the Blankenese ship wreckages. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="70%" width="230px" right="7%" />
+                <ProjectBio bio="SILVERFISH is a 5 minute animation developed under the Birmingham Open Media Fellowship. The mutation within SILVERFISH mirrors the evolution of submarine technology and the animation explores the process of regeneration, within the context of the silverfish, a small, primitive insect that commonly infests bathrooms. Typography by Jodi Hunt and sound by Christoper 'Bunny' Warren." color="rgb(108, 229, 221)" top="70%" width="230px" right="7%" />
               <BackToTop color="rgb(246, 147, 239)" top=" 355%" left="4.8%" />
             </MediaQuery>
           <LilyWales color="rgb(246, 147, 239)" />

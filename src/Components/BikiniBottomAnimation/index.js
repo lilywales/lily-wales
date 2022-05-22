@@ -20,7 +20,7 @@ const BikiniBottomAnimation = props => {
   smallvid: {
     position: 'absolute',
     right: '9%',
-    top: props.top || '90%',
+    top: props.top || '110%',
 
   }
   };

@@ -42,7 +42,7 @@ class BikiniBottomContent extends Component {
 					<p className="BBdescript">
 						A series exploring<br /> the mutated marine<br /> life left behind
 						by<br /> the 23 atomic tests<br /> at Bikini Atoll<br /> between
-						1946 and<br /> 1958. Track by <br /> Haus Band.
+						1946 and<br /> 1958. Music from <br /> Pushkins Prefers.
 					</p>
 
 

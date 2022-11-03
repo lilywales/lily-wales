@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./sfContent.css";
 import sf1 from "./sf1.jpg";
-import sf2 from "./sf4.png";
+// import sf2 from "./sf4.png";
 import sf3 from "./sf5.jpg";
 import sf4 from "./sf6.jpg";
 import sf5 from "./sf7.jpg";

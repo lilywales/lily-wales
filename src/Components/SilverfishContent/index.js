@@ -23,7 +23,7 @@ class SilverfishContent extends Component {
           />
           <img
             className="sfish2"
-            src={sf2}
+            src={sf16}
             alt=" "
           />
           <img
@@ -66,11 +66,11 @@ class SilverfishContent extends Component {
             src={sf14}
             alt=" "
           />
-          <img
+          {/* <img
             className="sfish16"
             src={sf16}
             alt=" "
-          /> 
+          />  */}
         </div>
     );
   }
